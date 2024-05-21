@@ -13,7 +13,7 @@ I combine my passion for building robust backend systems using Python (Django) w
 ### Skills
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,bash,go,js,django,postman,git,docker,linux,html,css,react,bootstrap,selenium,neovim,postgres,regex,md,discord" />
+  <img src="https://skillicons.dev/icons?i=python,bash,go,js,django,postgres,html,css,bootstrap,react,postman,selenium,git,linux,docker,neovim,regex,md,discord" />
 </a>
 
 
