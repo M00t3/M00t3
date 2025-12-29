@@ -8,7 +8,6 @@ I combine my passion for building robust backend systems using Python (Django) w
 
 * 🌍  I'm based in Cyprus
 * ✉️  You can contact me at [moote.dev@gmail.com](mailto:moote.dev@gmail.com)
-* 🧠  I'm learning golang
 
 ### Skills
 
